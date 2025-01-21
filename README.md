@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Eddy, newbie full-stack web developer.## 💻
+# I'm Eddy, newbie full-stack web developer.💻
 
 ## 🔭 Looking for challenges/collaboration
 
