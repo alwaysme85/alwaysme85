@@ -1,8 +1,8 @@
-<p>
+
 ## Hi there 👋
 
 # 💻 I'm Eddy, newbie full-stack web developer.
-</p>
+
 ## 🔭 Looking for challenges/collaboration
 
 ## 📫 How to reach me: 
