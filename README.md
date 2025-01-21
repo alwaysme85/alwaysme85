@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p></p>
+
 # 💻 I'm Eddy, newbie full-stack web developer.
 
 ## 🔭 Looking for challenges/collaboration
