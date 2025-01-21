@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[This is alt text.](/image/desk.png "Let's code")
+![This is alt text.](/image/desk.png "Let's code")
 
 # 💻 I'm Eddy, newbie full-stack web developer.
 
