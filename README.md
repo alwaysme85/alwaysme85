@@ -1,8 +1,7 @@
-<h2> Hi there 👋</h2>
-<p></p>
-<h1>💻 I'm Eddy, newbie full-stack web developer.</h1>
 
+##  Hi there 👋
 
+# 💻 I'm Eddy, newbie full-stack web developer.
 
 ## 🔭 Looking for challenges/collaboration
 
