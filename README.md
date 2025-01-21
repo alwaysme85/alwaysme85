@@ -1,5 +1,6 @@
 ## Hi there 👋
-## 📫 How to reach me: contact@adrianedward.com
+## 📫 How to reach me: 
+[Email](contact@adrianedward.com)
 <!--
 **alwaysme85/alwaysme85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
