@@ -1,12 +1,15 @@
+## Hi there 👋
 
-##  Hi there 👋
+[This is alt text.](/image/desk.png "Let's code")
 
 # 💻 I'm Eddy, newbie full-stack web developer.
 
 ## 🔭 Looking for challenges/collaboration.
 
-## 📫 How to reach me: 
+## 📫 How to reach me:
+
 [Email](mailto:contact@adrianedward.com)
+
 <!--
 **alwaysme85/alwaysme85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
