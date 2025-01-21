@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 🔭 Looking for challenges/collaboration
 ## 📫 How to reach me: 
 [Email](mailto:contact@adrianedward.com)
 <!--
